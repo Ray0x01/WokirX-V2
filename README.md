@@ -33,6 +33,10 @@ Contributions are welcome! Please feel free to submit a Pull Request or open an 
 # License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=ray0x01/wokirx-v2@github)](https://gitads.dev/v1/ad-track?source=ray0x01/wokirx-v2@github)
+
+
 
 
 
