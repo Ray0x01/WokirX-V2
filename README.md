@@ -28,6 +28,8 @@ python3 WokirX-V2.py
 
 Contributions are welcome! Please feel free to submit a Pull Request or open an Issue for any bugs or feature requests.
 
+<!-- GitAds-Verify: ENACC3VXAMF7UOEZEZ7FV2YSDADKVNEY -->
+
 # License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
